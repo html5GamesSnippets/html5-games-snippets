@@ -7,13 +7,7 @@ find us on [Facebook](https://www.facebook.com/html5GamesSnippets).
 
 ### List of Snippets
 
-- [00 - Snippet](https://myurl.com)
-- [01 - Snippet](https://myurl.com)
-- [02 - Snippet](https://myurl.com)
-
-### List of free code source HTML5 Game
-
-- [00 - Snippet](https://myurl.com)
+- [00 - Snippet](https://github.com/html5GamesSnippets/html5-games-snippets/tree/master/00-snippet)
 - [01 - Snippet](https://myurl.com)
 - [02 - Snippet](https://myurl.com)
 
